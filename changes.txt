@@ -35,3 +35,4 @@
  sites/all/themes/takesomemoney/less/variables.less                                 |    8 +
  sites/all/themes/takesomemoney/templates/block--block--24.tpl.php                  |    1 +
  sites/all/themes/takesomemoney/templates/page--404.tpl.php                         |    2 +-
+This another changhes by github
